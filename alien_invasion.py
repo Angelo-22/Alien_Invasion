@@ -6,7 +6,7 @@ def run_game():
     # Initilize game and create a screen object
     pygame.init()
     screen = pygame.display.set_mode((1200,800))
-    pygame.display.set_caption("Alien Invasion")
+    pygame.display.set_caption("Alien-Invasion")
 
     # start the main loop for the game
     while True:
